@@ -6,6 +6,7 @@ Write-ups of the homework sets I completed in **ESE 5420: Statistics for Data Sc
 
 | # | Topic | Homework | Key tools |
 |---|---|---|---|
+| 3 | [Hypothesis Testing & Statistical Power](03-hypothesis-testing-and-power/) | 6–7 | SciPy, Matplotlib |
 | 4 | [Regression & Classification](04-regression-and-classification/) | 8–9 | NumPy, Matplotlib |
 
 ## Skills and tools
