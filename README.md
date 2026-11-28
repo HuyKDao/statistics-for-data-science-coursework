@@ -8,6 +8,7 @@ Write-ups of the homework sets I completed in **ESE 5420: Statistics for Data Sc
 |---|---|---|---|
 | 3 | [Hypothesis Testing & Statistical Power](03-hypothesis-testing-and-power/) | 6–7 | SciPy, Matplotlib |
 | 4 | [Regression & Classification](04-regression-and-classification/) | 8–9 | NumPy, Matplotlib |
+| 5 | [Model Selection, Clustering & PCA](05-model-selection-clustering-and-pca/) | 10–11 | scikit-learn, pandas, Seaborn |
 
 ## Skills and tools
 Probability distributions, Central Limit Theorem, confidence intervals, maximum likelihood estimation, method of moments, Fisher information, z-tests and t-tests, p-values, power analysis, likelihood ratio tests, linear regression inference, logistic regression from scratch with gradient descent, LDA, k-fold cross-validation, k-means, PCA, Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Seaborn, Google Colab.
